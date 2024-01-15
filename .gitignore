@@ -47,4 +47,4 @@ app.*.map.json
 mini_world/Library
 *.png
 MINIWORLD/Library
-
+mini_world/Library/Artifacts/

@@ -44,4 +44,7 @@ app.*.map.json
 
 *.so
 *.o
+mini_world/Library
+*.png
+MINIWORLD/Library
 mini_world/Library/Artifacts/
